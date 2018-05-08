@@ -1,0 +1,543 @@
+study,sample,class,smoker,sex,age,title
+GSE11969,GSM302996,AD,current,male,71,Patient 001 with adenocarcinoma
+GSE11969,GSM302997,AD,never,female,49,Patient 002 with adenocarcinoma
+GSE11969,GSM302998,AD,never,female,51,Patient 003 with adenocarcinoma
+GSE11969,GSM302999,AD,never,female,51,Patient 004 with adenocarcinoma
+GSE11969,GSM303000,AD,never,female,67,Patient 005 with adenocarcinoma
+GSE11969,GSM303001,AD,current,male,66,Patient 006 with adenocarcinoma
+GSE11969,GSM303002,AD,never,female,71,Patient 007 with adenocarcinoma
+GSE11969,GSM303003,AD,never,female,62,Patient 008 with adenocarcinoma
+GSE11969,GSM303004,AD,current,female,47,Patient 009 with adenocarcinoma
+GSE11969,GSM303005,AD,current,female,60,Patient 010 with adenocarcinoma
+GSE11969,GSM303006,AD,never,female,64,Patient 011 with adenocarcinoma
+GSE11969,GSM303007,AD,current,male,57,Patient 012 with adenocarcinoma
+GSE11969,GSM303008,AD,never,female,55,Patient 013 with adenocarcinoma
+GSE11969,GSM303009,AD,current,male,74,Patient 014 with adenocarcinoma
+GSE11969,GSM303010,AD,current,male,61,Patient 015 with adenocarcinoma
+GSE11969,GSM303011,AD,current,female,67,Patient 016 with adenocarcinoma
+GSE11969,GSM303012,AD,never,female,63,Patient 017 with adenocarcinoma
+GSE11969,GSM303013,AD,never,male,59,Patient 018 with adenocarcinoma
+GSE11969,GSM303014,AD,current,male,66,Patient 019 with adenocarcinoma
+GSE11969,GSM303015,AD,never,female,68,Patient 020 with adenocarcinoma
+GSE11969,GSM303016,AD,never,male,64,Patient 021 with adenocarcinoma
+GSE11969,GSM303017,AD,never,female,70,Patient 022 with adenocarcinoma
+GSE11969,GSM303018,AD,never,male,43,Patient 023 with adenocarcinoma
+GSE11969,GSM303019,AD,current,male,73,Patient 024 with adenocarcinoma
+GSE11969,GSM303020,AD,current,male,72,Patient 025 with adenocarcinoma
+GSE11969,GSM303021,AD,current,male,56,Patient 026 with adenocarcinoma
+GSE11969,GSM303022,AD,never,male,75,Patient 027 with adenocarcinoma
+GSE11969,GSM303023,AD,current,male,61,Patient 028 with adenocarcinoma
+GSE11969,GSM303024,AD,current,male,62,Patient 029 with adenocarcinoma
+GSE11969,GSM303025,AD,current,male,61,Patient 030 with adenocarcinoma
+GSE11969,GSM303026,AD,never,female,32,Patient 031 with adenocarcinoma
+GSE11969,GSM303027,AD,current,male,53,Patient 032 with adenocarcinoma
+GSE11969,GSM303028,AD,never,male,66,Patient 033 with adenocarcinoma
+GSE11969,GSM303029,AD,never,female,55,Patient 034 with adenocarcinoma
+GSE11969,GSM303030,AD,current,male,62,Patient 035 with adenocarcinoma
+GSE11969,GSM303031,AD,never,female,64,Patient 036 with adenocarcinoma
+GSE11969,GSM303032,AD,never,female,63,Patient 037 with adenocarcinoma
+GSE11969,GSM303033,AD,never,female,69,Patient 038 with adenocarcinoma
+GSE11969,GSM303034,AD,never,female,52,Patient 039 with adenocarcinoma
+GSE11969,GSM303035,AD,never,female,52,Patient 040 with adenocarcinoma
+GSE11969,GSM303036,AD,never,male,62,Patient 041 with adenocarcinoma
+GSE11969,GSM303037,AD,current,male,62,Patient 042 with adenocarcinoma
+GSE11969,GSM303038,AD,current,male,67,Patient 043 with adenocarcinoma
+GSE11969,GSM303039,AD,never,female,63,Patient 044 with adenocarcinoma
+GSE11969,GSM303040,AD,never,female,49,Patient 045 with adenocarcinoma
+GSE11969,GSM303041,AD,never,female,59,Patient 046 with adenocarcinoma
+GSE11969,GSM303042,AD,never,male,46,Patient 047 with adenocarcinoma
+GSE11969,GSM303043,AD,never,female,61,Patient 048 with adenocarcinoma
+GSE11969,GSM303044,AD,current,female,35,Patient 049 with adenocarcinoma
+GSE11969,GSM303045,AD,current,male,76,Patient 050 with adenocarcinoma
+GSE11969,GSM303046,AD,never,female,76,Patient 051 with adenocarcinoma
+GSE11969,GSM303047,AD,never,female,84,Patient 052 with adenocarcinoma
+GSE11969,GSM303048,AD,current,male,64,Patient 053 with adenocarcinoma
+GSE11969,GSM303049,AD,current,female,53,Patient 054 with adenocarcinoma
+GSE11969,GSM303050,AD,current,female,53,Patient 055 with adenocarcinoma
+GSE11969,GSM303051,AD,never,female,62,Patient 056 with adenocarcinoma
+GSE11969,GSM303052,AD,never,female,73,Patient 057 with adenocarcinoma
+GSE11969,GSM303053,AD,current,male,47,Patient 058 with adenocarcinoma
+GSE11969,GSM303054,AD,current,male,74,Patient 059 with adenocarcinoma
+GSE11969,GSM303055,AD,current,male,56,Patient 060 with adenocarcinoma
+GSE11969,GSM303056,AD,current,male,69,Patient 061 with adenocarcinoma
+GSE11969,GSM303057,AD,current,male,68,Patient 062 with adenocarcinoma
+GSE11969,GSM303058,AD,current,male,41,Patient 063 with adenocarcinoma
+GSE11969,GSM303059,AD,current,male,55,Patient 064 with adenocarcinoma
+GSE11969,GSM303060,AD,never,female,60,Patient 065 with adenocarcinoma
+GSE11969,GSM303061,AD,never,male,66,Patient 066 with adenocarcinoma
+GSE11969,GSM303062,AD,never,female,42,Patient 067 with adenocarcinoma
+GSE11969,GSM303063,AD,current,male,56,Patient 068 with adenocarcinoma
+GSE11969,GSM303064,AD,never,female,50,Patient 069 with adenocarcinoma
+GSE11969,GSM303065,AD,current,female,70,Patient 070 with adenocarcinoma
+GSE11969,GSM303066,AD,never,male,61,Patient 071 with adenocarcinoma
+GSE11969,GSM303067,AD,current,male,63,Patient 072 with adenocarcinoma
+GSE11969,GSM303068,AD,never,female,60,Patient 073 with adenocarcinoma
+GSE11969,GSM303069,AD,current,male,58,Patient 074 with adenocarcinoma
+GSE11969,GSM303070,AD,current,male,60,Patient 075 with adenocarcinoma
+GSE11969,GSM303071,AD,never,female,65,Patient 076 with adenocarcinoma
+GSE11969,GSM303072,AD,never,female,60,Patient 077 with adenocarcinoma
+GSE11969,GSM303073,AD,never,male,82,Patient 078 with adenocarcinoma
+GSE11969,GSM303074,AD,current,male,67,Patient 079 with adenocarcinoma
+GSE11969,GSM303075,AD,never,female,67,Patient 080 with adenocarcinoma
+GSE11969,GSM303076,AD,current,female,60,Patient 081 with adenocarcinoma
+GSE11969,GSM303077,AD,current,male,66,Patient 082 with adenocarcinoma
+GSE11969,GSM303078,AD,current,male,73,Patient 083 with adenocarcinoma
+GSE11969,GSM303079,AD,current,male,74,Patient 084 with adenocarcinoma
+GSE11969,GSM303080,AD,current,male,56,Patient 085 with adenocarcinoma
+GSE11969,GSM303081,AD,never,female,49,Patient 086 with adenocarcinoma
+GSE11969,GSM303082,AD,never,female,60,Patient 087 with adenocarcinoma
+GSE11969,GSM303083,AD,current,male,53,Patient 088 with adenocarcinoma
+GSE11969,GSM303084,AD,current,male,51,Patient 089 with adenocarcinoma
+GSE11969,GSM303085,AD,current,male,74,Patient 090 with adenocarcinoma
+GSE11969,GSM303086,ADSQ,current,male,71,Patient 001 with adenocarcinoma AS001
+GSE11969,GSM303087,ADSQ,current,male,71,Patient 002 with adenocarcinoma AS002
+GSE11969,GSM303088,ADSQ,current,male,52,Patient 003 with adenocarcinoma AS003
+GSE11969,GSM303089,ADSQ,current,male,73,Patient 004 with adenocarcinoma AS004
+GSE11969,GSM303090,LC,current,male,68,Patient 001 with large-cell carcinoma
+GSE11969,GSM303091,LC,current,male,69,Patient 002 with large-cell carcinoma
+GSE11969,GSM303092,LC,current,male,76,Patient 003 with large-cell carcinoma
+GSE11969,GSM303093,LC,current,male,63,Patient 004 with large-cell carcinoma
+GSE11969,GSM303094,LC,never,female,46,Patient 005 with large-cell carcinoma
+GSE11969,GSM303095,LC,current,male,63,Patient 006 with large-cell carcinoma
+GSE11969,GSM303096,LC,current,male,52,Patient 007 with large-cell carcinoma
+GSE11969,GSM303097,LC,never,female,64,Patient 008 with large-cell carcinoma
+GSE11969,GSM303098,LC,current,male,68,Patient 009 with large-cell carcinoma
+GSE11969,GSM303099,LC,current,male,41,Patient 010 with large-cell carcinoma
+GSE11969,GSM303100,LC,current,male,43,Patient 011 with large-cell carcinoma
+GSE11969,GSM303101,LC,current,male,60,Patient 012 with large-cell carcinoma
+GSE11969,GSM303102,LC,current,male,72,Patient 013 with large-cell carcinoma
+GSE11969,GSM303103,LC,never,female,56,Patient 014 with large-cell carcinoma
+GSE11969,GSM303104,LC,current,male,52,Patient 015 with large-cell carcinoma
+GSE11969,GSM303105,LC,current,male,46,Patient 016 with large-cell carcinoma
+GSE11969,GSM303106,LC,current,male,71,Patient 017 with large-cell carcinoma
+GSE11969,GSM303107,LC,current,male,77,Patient 018 with large-cell carcinoma
+GSE11969,GSM303108,LCNE,current,male,71,Patient 001 with large cell neuroendocrine carcinoma
+GSE11969,GSM303109,LCNE,current,male,69,Patient 002 with large cell neuroendocrine carcinoma
+GSE11969,GSM303110,SQ,never,female,74,Patient 001 with squamous cell carcinoma
+GSE11969,GSM303111,SQ,current,male,61,Patient 002 with squamous cell carcinoma
+GSE11969,GSM303112,SQ,current,male,63,Patient 003 with squamous cell carcinoma
+GSE11969,GSM303113,SQ,current,male,55,Patient 004 with squamous cell carcinoma
+GSE11969,GSM303114,SQ,current,male,75,Patient 005 with squamous cell carcinoma
+GSE11969,GSM303115,SQ,current,male,65,Patient 006 with squamous cell carcinoma
+GSE11969,GSM303116,SQ,current,male,61,Patient 007 with squamous cell carcinoma
+GSE11969,GSM303117,SQ,current,male,58,Patient 008 with squamous cell carcinoma
+GSE11969,GSM303118,SQ,current,male,75,Patient 009 with squamous cell carcinoma
+GSE11969,GSM303119,SQ,current,male,62,Patient 010 with squamous cell carcinoma
+GSE11969,GSM303120,SQ,current,male,57,Patient 011 with squamous cell carcinoma
+GSE11969,GSM303121,SQ,current,male,59,Patient 012 with squamous cell carcinoma
+GSE11969,GSM303122,SQ,current,male,63,Patient 013 with squamous cell carcinoma
+GSE11969,GSM303123,SQ,current,male,58,Patient 014 with squamous cell carcinoma
+GSE11969,GSM303124,SQ,current,male,67,Patient 015 with squamous cell carcinoma
+GSE11969,GSM303125,SQ,current,male,63,Patient 016 with squamous cell carcinoma
+GSE11969,GSM303126,SQ,current,male,55,Patient 017 with squamous cell carcinoma
+GSE11969,GSM303127,SQ,current,male,58,Patient 018 with squamous cell carcinoma
+GSE11969,GSM303128,SQ,current,male,47,Patient 019 with squamous cell carcinoma
+GSE11969,GSM303129,SQ,current,female,46,Patient 020 with squamous cell carcinoma
+GSE11969,GSM303130,SQ,current,male,70,Patient 021 with squamous cell carcinoma
+GSE11969,GSM303131,SQ,current,male,72,Patient 022 with squamous cell carcinoma
+GSE11969,GSM303132,SQ,current,male,64,Patient 023 with squamous cell carcinoma
+GSE11969,GSM303133,SQ,current,male,77,Patient 024 with squamous cell carcinoma
+GSE11969,GSM303134,SQ,current,male,75,Patient 025 with squamous cell carcinoma
+GSE11969,GSM303135,SQ,current,male,69,Patient 026 with squamous cell carcinoma
+GSE11969,GSM303136,SQ,current,male,72,Patient 027 with squamous cell carcinoma
+GSE11969,GSM303137,SQ,current,male,68,Patient 028 with squamous cell carcinoma
+GSE11969,GSM303138,SQ,current,male,72,Patient 029 with squamous cell carcinoma
+GSE11969,GSM303139,SQ,current,male,79,Patient 030 with squamous cell carcinoma
+GSE11969,GSM303140,SQ,current,male,76,Patient 031 with squamous cell carcinoma
+GSE11969,GSM303141,SQ,current,male,73,Patient 032 with squamous cell carcinoma
+GSE11969,GSM303142,SQ,current,male,72,Patient 033 with squamous cell carcinoma
+GSE11969,GSM303143,SQ,current,male,56,Patient 034 with squamous cell carcinoma
+GSE11969,GSM303144,SQ,current,male,73,Patient 035 with squamous cell carcinoma
+GSE11969,GSM303145,SCLC,,,,Patient 01 with small cell lung cancer
+GSE11969,GSM303146,SCLC,,,,Patient 02 with small cell lung cancer
+GSE11969,GSM303147,SCLC,,,,Patient 03 with small cell lung cancer
+GSE11969,GSM303148,SCLC,,,,Patient 04 with small cell lung cancer
+GSE11969,GSM303149,SCLC,,,,Patient 05 with small cell lung cancer
+GSE11969,GSM303150,SCLC,,,,Patient 06 with small cell lung cancer
+GSE11969,GSM303151,SCLC,,,,Patient 07 with small cell lung cancer
+GSE11969,GSM303152,SCLC,,,,Patient 08 with small cell lung cancer
+GSE11969,GSM303153,SCLC,,,,Patient 09 with small cell lung cancer
+GSE11969,GSM303154,normal,,,,"Mixture of normal tissue from 5 different patients, mixture no.1"
+GSE11969,GSM303155,normal,,,,"Mixture of normal tissue from 5 different patients, mixture no.2"
+GSE11969,GSM303156,normal,,,,"Mixture of normal tissue from 5 different patients, mixture no.3"
+GSE11969,GSM303157,normal,,,,"Mixture of normal tissue from 5 different patients, mixture no.4"
+GSE11969,GSM303158,normal,,,,"Mixture of normal tissue from 5 different patients, mixture no.5"
+GSE29016,GSM718902,SCLC,,female,74,LU1054
+GSE29016,GSM718903,AD,current,male,64,LU111
+GSE29016,GSM718904,AD,,female,74,LU123
+GSE29016,GSM718905,AD,current,female,52,LU136
+GSE29016,GSM718906,AD,current,female,47,LU137
+GSE29016,GSM718907,LCNE,current,female,49,LU14
+GSE29016,GSM718908,AD,current,male,71,LU143
+GSE29016,GSM718909,AD,current,female,51,LU145
+GSE29016,GSM718910,AD,current,male,60,LU16
+GSE29016,GSM718911,LCNE,current,female,64,LU164
+GSE29016,GSM718912,LCNE,current,female,55,LU190
+GSE29016,GSM718913,AD,current,female,64,LU2
+GSE29016,GSM718914,AD,never,male,80,LU219
+GSE29016,GSM718915,AD,never,male,70,LU257
+GSE29016,GSM718916,LCNE,current,female,57,LU262
+GSE29016,GSM718917,SQ,current,female,67,LU271
+GSE29016,GSM718918,SQ,current,male,71,LU272
+GSE29016,GSM718919,SQ,current,male,77,LU276
+GSE29016,GSM718920,AD,never,female,80,LU277
+GSE29016,GSM718921,AD,current,male,71,LU295
+GSE29016,GSM718922,AD,current,female,62,LU302
+GSE29016,GSM718923,AD,current,female,59,LU318
+GSE29016,GSM718924,SQ,current,male,79,LU320
+GSE29016,GSM718925,AD,current,female,55,LU324
+GSE29016,GSM718926,AD,current,male,59,LU324492
+GSE29016,GSM718927,AD,current,male,77,LU330
+GSE29016,GSM718928,unknown,,male,80,LU348
+GSE29016,GSM718929,SCLC,current,female,55,LU350
+GSE29016,GSM718930,AD,current,male,77,LU352
+GSE29016,GSM718931,SCLC,current,female,64,LU355
+GSE29016,GSM718932,LCNE,current,female,63,LU370
+GSE29016,GSM718933,SQ,current,male,69,LU372
+GSE29016,GSM718934,SQ,current,female,78,LU375
+GSE29016,GSM718935,AD,never,male,72,LU376
+GSE29016,GSM718936,AD,,male,70,LU38
+GSE29016,GSM718937,SQ,current,male,72,LU382
+GSE29016,GSM718938,SQ,current,female,77,LU398
+GSE29016,GSM718939,SCLC,current,female,52,LU402
+GSE29016,GSM718940,SQ,,male,63,LU409
+GSE29016,GSM718941,AD,current,female,72,LU415
+GSE29016,GSM718942,AD,current,female,62,LU418
+GSE29016,GSM718943,AD,current,female,47,LU427
+GSE29016,GSM718944,AD,current,female,69,LU434
+GSE29016,GSM718945,LCNE,current,female,69,LU436
+GSE29016,GSM718946,SQ,current,male,71,LU444
+GSE29016,GSM718947,AD,current,male,65,LU449
+GSE29016,GSM718948,unknown,current,male,65,LU454
+GSE29016,GSM718949,AD,current,female,46,LU460
+GSE29016,GSM718950,AD,current,female,36,LU464
+GSE29016,GSM718951,unknown,current,male,76,LU468
+GSE29016,GSM718952,AD,current,male,67,LU473
+GSE29016,GSM718953,AD,current,male,78,LU48
+GSE29016,GSM718954,AD,current,male,69,LU485
+GSE29016,GSM718955,SQ,never,female,85,LU486
+GSE29016,GSM718956,SQ,current,male,69,LU500
+GSE29016,GSM718957,AD,current,female,50,LU510
+GSE29016,GSM718958,AD,never,male,62,LU583
+GSE29016,GSM718959,unknown,current,female,64,LU628
+GSE29016,GSM718960,AD,never,female,83,LU635
+GSE29016,GSM718961,AD,current,male,77,LU66
+GSE29016,GSM718962,AD,current,male,70,LU70
+GSE29016,GSM718963,SCLC,current,female,73,LU702
+GSE29016,GSM718964,unknown,,female,58,LU740
+GSE29016,GSM718965,LCNE,current,female,69,LU79
+GSE29016,GSM718966,unknown,current,male,62,LU80
+GSE29016,GSM718967,AD,never,female,73,LU804
+GSE29016,GSM718968,AD,never,female,80,LU821
+GSE29016,GSM718969,AD,never,female,70,LU87
+GSE29016,GSM718970,LCNE,current,female,76,LU887
+GSE29016,GSM718971,SCLC,current,male,64,LU89
+GSE29016,GSM718972,SCLC,current,female,56,LU971
+GSE29016,GSM718973,LCNE,current,female,65,LU998
+GSE30219,GSM748053,AD,former,female,62,Lung cancer ADK1
+GSE30219,GSM748054,AD,former,male,50,Lung cancer ADK2
+GSE30219,GSM748055,AD,current,female,62,Lung cancer ADK3
+GSE30219,GSM748056,SQ,former,male,71,Lung Squamous Cell Carcinoma1
+GSE30219,GSM748057,AD,current,male,62,Lung cancer ADK4
+GSE30219,GSM748058,AD,former,female,53,Lung cancer ADK5
+GSE30219,GSM748059,SQ,current,male,67,Lung Squamous Cell Carcinoma2
+GSE30219,GSM748060,normal,,,,Non tumoral lung3
+GSE30219,GSM748061,SQ,current,male,63,Lung Squamous Cell Carcinoma3
+GSE30219,GSM748062,SQ,former,male,78,Lung Squamous Cell Carcinoma4
+GSE30219,GSM748063,SQ,former,male,71,Lung Squamous Cell Carcinoma5
+GSE30219,GSM748064,AD,current,female,44,Lung cancer ADK6
+GSE30219,GSM748065,SQ,current,male,51,Lung Squamous Cell Carcinoma6
+GSE30219,GSM748066,SQ,current,male,51,Lung Squamous Cell Carcinoma7
+GSE30219,GSM748067,SQ,former,male,58,Lung Squamous Cell Carcinoma8
+GSE30219,GSM748068,AD,former,male,52,Lung cancer ADK7
+GSE30219,GSM748069,LC,current,male,62,Lung cancer Large Cell Carcinoma1
+GSE30219,GSM748070,normal,,,,Non tumoral lung4
+GSE30219,GSM748071,AD,never,male,60,Lung cancer ADK8
+GSE30219,GSM748072,SQ,current,male,70,Lung Squamous Cell Carcinoma9
+GSE30219,GSM748073,other,current,male,72,Lung cancer_Other2
+GSE30219,GSM748074,SQ,former,male,65,Lung Squamous Cell Carcinoma10
+GSE30219,GSM748075,AD,former,male,65,Lung cancer ADK9
+GSE30219,GSM748076,SQ,former,male,67,Lung Squamous Cell Carcinoma11
+GSE30219,GSM748077,AD,former,male,80,Lung cancer ADK10
+GSE30219,GSM748078,AD,never,male,77,Lung cancer ADK11
+GSE30219,GSM748079,AD,current,male,65,Lung cancer ADK12
+GSE30219,GSM748080,AD,former,male,60,Lung cancer ADK13
+GSE30219,GSM748081,AD,current,male,58,Lung cancer ADK14
+GSE30219,GSM748083,AD,former,male,53,Lung cancer ADK15
+GSE30219,GSM748084,SQ,former,male,74,Lung Squamous Cell Carcinoma13
+GSE30219,GSM748085,AD,current,male,78,Lung cancer ADK16
+GSE30219,GSM748086,AD,former,male,71,Lung cancer ADK17
+GSE30219,GSM748087,AD,former,male,60,Lung cancer ADK18
+GSE30219,GSM748088,SQ,current,male,52,Lung Squamous Cell Carcinoma14
+GSE30219,GSM748089,AD,former,male,48,Lung cancer ADK19
+GSE30219,GSM748090,AD,current,male,56,Lung cancer ADK20
+GSE30219,GSM748091,AD,current,male,49,Lung cancer ADK21
+GSE30219,GSM748092,AD,former,female,53,Lung cancer ADK22
+GSE30219,GSM748093,SQ,current,male,62,Lung Squamous Cell Carcinoma15
+GSE30219,GSM748094,AD,former,male,59,Lung cancer ADK23
+GSE30219,GSM748095,SQ,former,male,56,Lung Squamous Cell Carcinoma16
+GSE30219,GSM748096,other,former,male,78,Lung cancer_Other3
+GSE30219,GSM748097,SQ,former,female,74,Lung Squamous Cell Carcinoma17
+GSE30219,GSM748098,SQ,current,male,60,Lung Squamous Cell Carcinoma18
+GSE30219,GSM748099,SQ,current,female,70,Lung Squamous Cell Carcinoma19
+GSE30219,GSM748100,AD,current,male,62,Lung cancer ADK24
+GSE30219,GSM748101,AD,never,female,70,Lung cancer ADK25
+GSE30219,GSM748102,AD,current,male,64,Lung cancer ADK26
+GSE30219,GSM748103,AD,former,female,84,Lung cancer ADK27
+GSE30219,GSM748104,AD,current,female,72,Lung cancer ADK28
+GSE30219,GSM748105,SQ,former,male,75,Lung Squamous Cell Carcinoma20
+GSE30219,GSM748106,SQ,former,male,52,Lung Squamous Cell Carcinoma21
+GSE30219,GSM748107,normal,,,,Non tumoral lung5
+GSE30219,GSM748108,AD,former,female,63,Lung cancer ADK29
+GSE30219,GSM748109,SQ,former,male,57,Lung Squamous Cell Carcinoma22
+GSE30219,GSM748110,SQ,former,male,69,Lung Squamous Cell Carcinoma23
+GSE30219,GSM748111,AD,current,male,60,Lung cancer ADK30
+GSE30219,GSM748112,SQ,former,male,54,Lung Squamous Cell Carcinoma24
+GSE30219,GSM748113,AD,current,male,55,Lung cancer ADK31
+GSE30219,GSM748115,SQ,former,male,74,Lung Squamous Cell Carcinoma25
+GSE30219,GSM748116,AD,former,male,77,Lung cancer ADK33
+GSE30219,GSM748117,SQ,former,male,69,Lung Squamous Cell Carcinoma26
+GSE30219,GSM748118,normal,,,,Non tumoral lung6
+GSE30219,GSM748119,SQ,current,male,53,Lung Squamous Cell Carcinoma27
+GSE30219,GSM748120,SQ,never,male,67,Lung Squamous Cell Carcinoma28
+GSE30219,GSM748121,AD,current,female,47,Lung cancer ADK34
+GSE30219,GSM748122,AD,current,male,66,Lung cancer ADK35
+GSE30219,GSM748123,AD,former,male,59,Lung cancer ADK36
+GSE30219,GSM748124,AD,current,male,57,Lung cancer ADK37
+GSE30219,GSM748125,AD,former,male,65,Lung cancer ADK38
+GSE30219,GSM748126,AD,current,male,49,Lung cancer ADK39
+GSE30219,GSM748127,AD,current,male,69,Lung cancer ADK40
+GSE30219,GSM748128,AD,former,male,53,Lung cancer ADK41
+GSE30219,GSM748129,normal,,,,Non tumoral lung7
+GSE30219,GSM748130,AD,current,male,60,Lung cancer ADK42
+GSE30219,GSM748131,AD,former,male,73,Lung cancer ADK43
+GSE30219,GSM748132,SQ,former,male,63,Lung Squamous Cell Carcinoma29
+GSE30219,GSM748133,SQ,current,male,60,Lung Squamous Cell Carcinoma30
+GSE30219,GSM748134,AD,never,female,78,Lung cancer ADK44
+GSE30219,GSM748135,AD,current,male,61,Lung cancer ADK45
+GSE30219,GSM748136,SQ,former,male,81,Lung Squamous Cell Carcinoma31
+GSE30219,GSM748137,AD,current,male,57,Lung cancer ADK46
+GSE30219,GSM748138,AD,current,male,53,Lung cancer ADK47
+GSE30219,GSM748139,AD,former,male,65,Lung cancer ADK48
+GSE30219,GSM748140,AD,current,male,57,Lung cancer ADK49
+GSE30219,GSM748141,SQ,former,male,59,Lung Squamous Cell Carcinoma32
+GSE30219,GSM748142,AD,former,male,52,Lung cancer ADK50
+GSE30219,GSM748143,AD,current,male,56,Lung cancer ADK51
+GSE30219,GSM748144,other,current,male,82,Lung cancer_Other4
+GSE30219,GSM748145,SQ,former,male,67,Lung Squamous Cell Carcinoma33
+GSE30219,GSM748146,AD,former,male,56,Lung cancer ADK52
+GSE30219,GSM748147,AD,former,male,76,Lung cancer ADK53
+GSE30219,GSM748148,SQ,former,male,76,Lung Squamous Cell Carcinoma34
+GSE30219,GSM748149,LC,former,male,56,Lung cancer Large Cell Carcinoma2
+GSE30219,GSM748150,AD,former,male,56,Lung cancer ADK54
+GSE30219,GSM748151,SQ,current,male,63,Lung Squamous Cell Carcinoma35
+GSE30219,GSM748152,AD,current,male,55,Lung cancer ADK55
+GSE30219,GSM748153,normal,,,,Non tumoral lung8
+GSE30219,GSM748154,SQ,current,male,71,Lung Squamous Cell Carcinoma36
+GSE30219,GSM748155,SQ,current,female,56,Lung Squamous Cell Carcinoma37
+GSE30219,GSM748156,SQ,former,male,67,Lung Squamous Cell Carcinoma38
+GSE30219,GSM748157,AD,former,male,62,Lung cancer ADK56
+GSE30219,GSM748158,normal,,,,Non tumoral lung9
+GSE30219,GSM748159,SQ,never,male,46,Lung Squamous Cell Carcinoma39
+GSE30219,GSM748160,LC,former,male,63,Lung cancer Large Cell Carcinoma3
+GSE30219,GSM748161,AD,current,male,56,Lung cancer ADK57
+GSE30219,GSM748162,AD,former,male,57,Lung cancer ADK58
+GSE30219,GSM748163,SQ,current,male,63,Lung Squamous Cell Carcinoma40
+GSE30219,GSM748164,AD,former,male,72,Lung cancer ADK59
+GSE30219,GSM748165,SQ,former,male,72,Lung Squamous Cell Carcinoma41
+GSE30219,GSM748166,AD,former,female,44,Lung cancer ADK60
+GSE30219,GSM748167,AD,former,male,58,Lung cancer ADK61
+GSE30219,GSM748168,normal,,,,Non tumoral lung10
+GSE30219,GSM748169,AD,current,male,54,Lung cancer ADK62
+GSE30219,GSM748170,AD,current,female,69,Lung cancer ADK63
+GSE30219,GSM748171,AD,former,male,77,Lung cancer ADK64
+GSE30219,GSM748172,SQ,current,male,64,Lung Squamous Cell Carcinoma42
+GSE30219,GSM748173,AD,current,male,50,Lung cancer ADK65
+GSE30219,GSM748174,other,former,male,81,Lung cancer_Other5
+GSE30219,GSM748175,AD,current,male,61,Lung cancer ADK66
+GSE30219,GSM748176,normal,,,,Non tumoral lung11
+GSE30219,GSM748177,SQ,former,male,63,Lung Squamous Cell Carcinoma43
+GSE30219,GSM748178,AD,,male,74,Lung cancer ADK67
+GSE30219,GSM748179,AD,current,female,47,Lung cancer ADK68
+GSE30219,GSM748180,AD,former,male,75,Lung cancer ADK69
+GSE30219,GSM748181,AD,never,female,56,Lung cancer ADK70
+GSE30219,GSM748182,SQ,current,male,71,Lung Squamous Cell Carcinoma44
+GSE30219,GSM748183,SQ,former,male,63,Lung Squamous Cell Carcinoma45
+GSE30219,GSM748184,normal,,,,Non tumoral lung12
+GSE30219,GSM748185,AD,current,male,61,Lung cancer ADK71
+GSE30219,GSM748186,AD,former,male,57,Lung cancer ADK86
+GSE30219,GSM748187,AD,current,male,71,Lung cancer ADK72
+GSE30219,GSM748188,AD,current,male,71,Lung cancer ADK73
+GSE30219,GSM748189,AD,former,female,73,Lung cancer ADK74
+GSE30219,GSM748191,SQ,former,male,53,Lung Squamous Cell Carcinoma46
+GSE30219,GSM748192,SQ,current,male,58,Lung Squamous Cell Carcinoma61
+GSE30219,GSM748193,SQ,current,male,64,Lung Squamous Cell Carcinoma47
+GSE30219,GSM748195,SQ,current,male,57,Lung Squamous Cell Carcinoma49
+GSE30219,GSM748196,BAS,former,male,60,Lung cancer Basaloid43
+GSE30219,GSM748197,LCNE,former,male,64,Lung cancer Large Cell Neuroendocrine43
+GSE30219,GSM748198,LCNE,current,male,74,Lung cancer Large Cell Neuroendocrine1
+GSE30219,GSM748199,LCNE,current,female,52,Lung cancer Large Cell Neuroendocrine44
+GSE30219,GSM748200,LCNE,former,male,68,Lung cancer Large Cell Neuroendocrine45
+GSE30219,GSM748201,LCNE,former,male,74,Lung cancer Large Cell Neuroendocrine46
+GSE30219,GSM748202,LCNE,former,male,77,Lung cancer Large Cell Neuroendocrine2
+GSE30219,GSM748203,LCNE,former,male,49,Lung cancer Large Cell Neuroendocrine47
+GSE30219,GSM748206,LCNE,former,male,71,Lung cancer Large Cell Neuroendocrine48
+GSE30219,GSM748207,LCNE,current,male,46,Lung cancer Large Cell Neuroendocrine49
+GSE30219,GSM748209,SCLC,current,male,68,Small Cell Lung Carcinoma25
+GSE30219,GSM748210,LCNE,former,male,55,Lung cancer Large Cell Neuroendocrine52
+GSE30219,GSM748211,LCNE,former,male,53,Lung cancer Large Cell Neuroendocrine53
+GSE30219,GSM748212,LCNE,former,male,68,Lung cancer Large Cell Neuroendocrine54
+GSE30219,GSM748213,SCLC,current,male,67,Small Cell Lung Carcinoma4
+GSE30219,GSM748214,LCNE,never,male,70,Lung cancer Large Cell Neuroendocrine55
+GSE30219,GSM748215,SCLC,former,male,54,Small Cell Lung Carcinoma6
+GSE30219,GSM748216,LCNE,former,male,41,Lung cancer Large Cell Neuroendocrine41
+GSE30219,GSM748217,LCNE,current,male,51,Lung cancer Large Cell Neuroendocrine50
+GSE30219,GSM748218,SCLC,former,male,68,Small Cell Lung Carcinoma7
+GSE30219,GSM748219,SCLC,former,male,71,Small Cell Lung Carcinoma8
+GSE30219,GSM748220,CAR,never,female,58,Lung cancer Carcinoid1
+GSE30219,GSM748221,CAR,never,male,58,Lung cancer Carcinoid2
+GSE30219,GSM748222,CAR,current,male,,Lung cancer Carcinoid3
+GSE30219,GSM748223,CAR,former,male,57,Lung cancer Carcinoid4
+GSE30219,GSM748224,CAR,never,female,52,Lung cancer Carcinoid5
+GSE30219,GSM748225,CAR,current,male,29,Lung cancer Carcinoid6
+GSE30219,GSM748226,CAR,current,male,63,Lung cancer Carcinoid7
+GSE30219,GSM748227,CAR,never,male,15,Lung cancer Carcinoid8
+GSE30219,GSM748228,CAR,never,female,24,Lung cancer Carcinoid9
+GSE30219,GSM748229,LCNE,current,male,48,Lung cancer Large Cell Neuroendocrine42
+GSE30219,GSM748232,normal,,,,Non tumoral lung1
+GSE30219,GSM748233,normal,,,,Non tumoral lung13
+GSE30219,GSM748234,normal,,,,Non tumoral lung2
+GSE30219,GSM748235,normal,,,,Non tumoral lung14
+GSE30219,GSM748239,AD,former,male,65,Lung cancer ADK77
+GSE30219,GSM748240,AD,current,male,52,Lung cancer ADK78
+GSE30219,GSM748242,AD,never,female,64,Lung cancer ADK79
+GSE30219,GSM748243,AD,current,male,62,Lung cancer ADK80
+GSE30219,GSM748244,SCLC,current,male,56,Small Cell Lung Carcinoma10
+GSE30219,GSM748245,SCLC,current,male,59,Small Cell Lung Carcinoma11
+GSE30219,GSM748246,SCLC,former,male,62,Small Cell Lung Carcinoma12
+GSE30219,GSM748247,SCLC,former,male,47,Small Cell Lung Carcinoma13
+GSE30219,GSM748248,SCLC,never,male,83,Small Cell Lung Carcinoma24
+GSE30219,GSM748249,SCLC,former,male,71,Small Cell Lung Carcinoma14
+GSE30219,GSM748250,SCLC,current,male,51,Small Cell Lung Carcinoma23
+GSE30219,GSM748251,SCLC,current,female,69,Small Cell Lung Carcinoma15
+GSE30219,GSM748252,SCLC,former,male,69,Small Cell Lung Carcinoma9
+GSE30219,GSM748253,SCLC,former,male,73,Small Cell Lung Carcinoma16
+GSE30219,GSM748254,SCLC,current,male,68,Small Cell Lung Carcinoma17
+GSE30219,GSM748255,SCLC,current,male,68,Small Cell Lung Carcinoma18
+GSE30219,GSM748256,SCLC,current,male,75,Small Cell Lung Carcinoma19
+GSE30219,GSM748257,SCLC,current,male,67,Small Cell Lung Carcinoma20
+GSE30219,GSM748258,SCLC,current,male,40,Small Cell Lung Carcinoma21
+GSE30219,GSM748259,CAR,never,female,39,Lung cancer Carcinoid10
+GSE30219,GSM748260,CAR,never,female,51,Lung cancer Carcinoid11
+GSE30219,GSM748261,CAR,former,male,71,Lung cancer Carcinoid12
+GSE30219,GSM748262,CAR,former,female,57,Lung cancer Carcinoid13
+GSE30219,GSM748263,CAR,never,male,17,Lung cancer Carcinoid22
+GSE30219,GSM748264,AD,former,male,69,Lung cancer ADK81
+GSE30219,GSM748265,SCLC,current,male,70,Small Cell Lung Carcinoma22
+GSE30219,GSM748266,CAR,never,female,27,Lung cancer Carcinoid14
+GSE30219,GSM748267,CAR,never,female,42,Lung cancer Carcinoid15
+GSE30219,GSM748268,CAR,current,male,31,Lung cancer Carcinoid16
+GSE30219,GSM748269,CAR,never,male,25,Lung cancer Carcinoid17
+GSE30219,GSM748270,CAR,current,male,56,Lung cancer Carcinoid18
+GSE30219,GSM748271,AD,current,female,69,Lung cancer ADK87
+GSE30219,GSM748272,CAR,current,female,35,Lung cancer Carcinoid19
+GSE30219,GSM748273,CAR,former,male,80,Lung cancer Carcinoid20
+GSE30219,GSM748274,CAR,never,male,31,Lung cancer Carcinoid21
+GSE30219,GSM748275,CAR,never,male,66,Lung cancer Carcinoid23
+GSE30219,GSM748276,AD,current,male,53,Lung cancer ADK82
+GSE30219,GSM748277,AD,former,male,70,Lung cancer ADK83
+GSE30219,GSM748278,AD,former,male,70,Lung cancer ADK84
+GSE30219,GSM748279,AD,former,male,44,Lung cancer ADK85
+GSE30219,GSM748280,SQ,current,male,57,Lung Squamous Cell Carcinoma53
+GSE30219,GSM748281,SQ,former,male,80,Lung Squamous Cell Carcinoma54
+GSE30219,GSM748282,SQ,former,male,65,Lung Squamous Cell Carcinoma55
+GSE30219,GSM748283,SQ,current,male,50,Lung Squamous Cell Carcinoma56
+GSE30219,GSM748284,SQ,current,male,60,Lung Squamous Cell Carcinoma57
+GSE30219,GSM748285,SQ,current,male,70,Lung Squamous Cell Carcinoma58
+GSE30219,GSM748286,SQ,current,male,48,Lung Squamous Cell Carcinoma59
+GSE30219,GSM748287,SQ,current,female,58,Lung Squamous Cell Carcinoma62
+GSE30219,GSM748288,SQ,never,female,66,Lung Squamous Cell Carcinoma60
+GSE30219,GSM748291,BAS,current,male,65,Lung cancer Basaloid3
+GSE30219,GSM748292,BAS,current,male,64,Lung cancer Basaloid4
+GSE30219,GSM748294,BAS,former,male,66,Lung cancer Basaloid6
+GSE30219,GSM748295,BAS,current,male,70,Lung cancer Basaloid7
+GSE30219,GSM748296,LCNE,current,male,50,Lung cancer Large Cell Neuroendocrine51
+GSE30219,GSM748297,LCNE,former,male,75,Lung cancer Large Cell Neuroendocrine6
+GSE30219,GSM748298,LCNE,current,female,65,Lung cancer Large Cell Neuroendocrine7
+GSE30219,GSM748299,LCNE,current,male,79,Lung cancer Large Cell Neuroendocrine8
+GSE30219,GSM748300,LCNE,former,male,80,Lung cancer Large Cell Neuroendocrine9
+GSE30219,GSM748301,BAS,former,male,44,Lung cancer Basaloid8
+GSE30219,GSM748302,BAS,,male,68,Lung cancer Basaloid9
+GSE30219,GSM748303,BAS,current,male,55,Lung cancer Basaloid10
+GSE30219,GSM748304,BAS,former,male,67,Lung cancer Basaloid11
+GSE30219,GSM748305,BAS,former,male,56,Lung cancer Basaloid12
+GSE30219,GSM748306,BAS,former,male,82,Lung cancer Basaloid13
+GSE30219,GSM748307,BAS,former,male,57,Lung cancer Basaloid14
+GSE30219,GSM748308,BAS,former,male,64,Lung cancer Basaloid15
+GSE30219,GSM748309,BAS,former,male,54,Lung cancer Basaloid16
+GSE30219,GSM748310,BAS,current,male,64,Lung cancer Basaloid17
+GSE30219,GSM748311,BAS,former,male,50,Lung cancer Basaloid18
+GSE30219,GSM748312,SQ,current,male,60,Lung Squamous Cell Carcinoma63
+GSE30219,GSM748313,BAS,current,male,57,Lung cancer Basaloid20
+GSE30219,GSM748314,BAS,current,male,65,Lung cancer Basaloid21
+GSE30219,GSM748315,BAS,former,male,62,Lung cancer Basaloid22
+GSE30219,GSM748316,BAS,current,female,65,Lung cancer Basaloid23
+GSE30219,GSM748317,BAS,current,male,69,Lung cancer Basaloid24
+GSE30219,GSM748318,BAS,former,male,77,Lung cancer Basaloid25
+GSE30219,GSM748319,BAS,current,male,71,Lung cancer Basaloid26
+GSE30219,GSM748320,BAS,former,male,55,Lung cancer Basaloid27
+GSE30219,GSM748321,BAS,current,male,50,Lung cancer Basaloid28
+GSE30219,GSM748323,BAS,current,male,50,Lung cancer Basaloid30
+GSE30219,GSM748324,BAS,former,male,73,Lung cancer Basaloid31
+GSE30219,GSM748325,BAS,former,male,66,Lung cancer Basaloid32
+GSE30219,GSM748326,BAS,former,male,79,Lung cancer Basaloid33
+GSE30219,GSM748327,BAS,current,female,53,Lung cancer Basaloid34
+GSE30219,GSM748328,BAS,former,male,58,Lung cancer Basaloid35
+GSE30219,GSM748329,BAS,current,male,70,Lung cancer Basaloid36
+GSE30219,GSM748330,BAS,current,male,64,Lung cancer Basaloid37
+GSE30219,GSM748331,BAS,former,male,82,Lung cancer Basaloid38
+GSE30219,GSM748332,BAS,former,male,77,Lung cancer Basaloid39
+GSE30219,GSM748333,BAS,current,male,61,Lung cancer Basaloid40
+GSE30219,GSM748334,BAS,current,male,70,Lung cancer Basaloid41
+GSE30219,GSM748335,BAS,current,male,71,Lung cancer Basaloid42
+GSE30219,GSM748336,LCNE,current,female,67,Lung cancer Large Cell Neuroendocrine10
+GSE30219,GSM748337,LCNE,current,male,74,Lung cancer Large Cell Neuroendocrine11
+GSE30219,GSM748338,LCNE,current,male,61,Lung cancer Large Cell Neuroendocrine12
+GSE30219,GSM748339,LCNE,current,male,47,Lung cancer Large Cell Neuroendocrine13
+GSE30219,GSM748341,LCNE,current,male,46,Lung cancer Large Cell Neuroendocrine15
+GSE30219,GSM748342,LCNE,current,male,63,Lung cancer Large Cell Neuroendocrine16
+GSE30219,GSM748343,LCNE,current,male,69,Lung cancer Large Cell Neuroendocrine17
+GSE30219,GSM748344,LCNE,former,male,54,Lung cancer Large Cell Neuroendocrine18
+GSE30219,GSM748345,LCNE,former,male,45,Lung cancer Large Cell Neuroendocrine19
+GSE30219,GSM748346,LCNE,current,male,58,Lung cancer Large Cell Neuroendocrine20
+GSE30219,GSM748347,LCNE,former,male,55,Lung cancer Large Cell Neuroendocrine21
+GSE30219,GSM748348,LCNE,current,male,54,Lung cancer Large Cell Neuroendocrine22
+GSE30219,GSM748349,LCNE,former,male,72,Lung cancer Large Cell Neuroendocrine23
+GSE30219,GSM748350,LCNE,current,male,74,Lung cancer Large Cell Neuroendocrine24
+GSE30219,GSM748351,LCNE,former,female,59,Lung cancer Large Cell Neuroendocrine25
+GSE30219,GSM748352,LCNE,current,male,39,Lung cancer Large Cell Neuroendocrine26
+GSE30219,GSM748353,LCNE,current,male,65,Lung cancer Large Cell Neuroendocrine27
+GSE30219,GSM748354,LCNE,current,male,62,Lung cancer Large Cell Neuroendocrine28
+GSE30219,GSM748355,LCNE,former,male,77,Lung cancer Large Cell Neuroendocrine29
+GSE30219,GSM748356,LCNE,current,male,53,Lung cancer Large Cell Neuroendocrine30
+GSE30219,GSM748357,LCNE,current,male,52,Lung cancer Large Cell Neuroendocrine31
+GSE30219,GSM748358,LCNE,current,female,66,Lung cancer Large Cell Neuroendocrine32
+GSE30219,GSM748359,LCNE,former,male,71,Lung cancer Large Cell Neuroendocrine33
+GSE30219,GSM748360,LCNE,former,male,49,Lung cancer Large Cell Neuroendocrine34
+GSE30219,GSM748361,LCNE,former,male,77,Lung cancer Large Cell Neuroendocrine35
+GSE30219,GSM748362,LCNE,former,female,67,Lung cancer Large Cell Neuroendocrine36
+GSE30219,GSM748363,LCNE,former,male,56,Lung cancer Large Cell Neuroendocrine37
+GSE30219,GSM748364,LCNE,current,male,51,Lung cancer Large Cell Neuroendocrine38
+GSE30219,GSM748365,LCNE,former,male,60,Lung cancer Large Cell Neuroendocrine39
+GSE30219,GSM748366,LCNE,current,male,66,Lung cancer Large Cell Neuroendocrine40
+GSE30219,GSM1465989,AD,never,female,60,Lung cancer ADK88
+GSE30219,GSM1465990,LCNE,current,male,52,Lung cancer Large Cell Neuroendocrine56
+GSE30219,GSM1465991,LCNE,current,male,66,Lung cancer Large Cell Neuroendocrine57
+GSE30219,GSM1465992,CAR,,female,70,Lung cancer Carcinoid24
+GSE30219,GSM1465993,SQ,former,male,82,Lung Squamous Cell Carcinoma64
+GSE30219,GSM1465994,SQ,current,male,63,Lung Squamous Cell Carcinoma65
+GSE30219,GSM1465995,LCNE,,male,76,Lung cancer Large Cell Neuroendocrine58
+GSE30219,GSM1465996,LCNE,,male,75,Lung cancer Large Cell Neuroendocrine59
+GSE30219,GSM1465997,LCNE,,male,65,Lung cancer Large Cell Neuroendocrine60
+GSE30219,GSM1465998,SQ,current,male,48,Lung Squamous Cell Carcinoma66
+GSE30219,GSM1465999,BAS,former,male,72,Lung cancer Basaloid44
